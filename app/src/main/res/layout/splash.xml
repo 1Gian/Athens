@@ -6,11 +6,15 @@
 
     <com.wang.avi.AVLoadingIndicatorView
         android:id="@+id/avloadingIndicatorView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="70dp"
+        android:layout_marginLeft="650dp"
+
         android:visibility="visible"
         app:indicator="BallRotate"
-        app:indicator_color="#ff0000"
+        app:indicator_color="#000000"
     />
 
 
