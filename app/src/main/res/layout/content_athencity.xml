@@ -12,12 +12,20 @@
     tools:context="com.gian.athens.Athencity"
     tools:showIn="@layout/activity_athencity">
 
-    <TextView
+
+
+    <Button
+        android:id ="@+id/push_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="ATHENS"
+        android:text="ATHENS VIEW"
+        android:background="@drawable/button_bg_stroke"
+        android:padding="15dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="223dp"
-        android:textSize="25sp" />
+        android:layout_marginTop="205dp" />
+
+
 </RelativeLayout>

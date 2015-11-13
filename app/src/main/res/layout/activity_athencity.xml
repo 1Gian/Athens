@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    android:background="@drawable/logoo"
+    android:background="@drawable/logo"
     tools:context="com.gian.athens.Athencity">
 
     <android.support.design.widget.AppBarLayout
@@ -29,3 +29,5 @@
 
 
 </android.support.design.widget.CoordinatorLayout>
+
+
