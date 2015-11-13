@@ -23,9 +23,11 @@
         android:padding="15dp"
         android:textSize="25sp"
         android:textStyle="bold"
+        android:textColor="#6666ff"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="205dp" />
+        android:layout_marginTop="205dp"
+        android:onClick="activity_athencity.xml"/>
 
 
 </RelativeLayout>
